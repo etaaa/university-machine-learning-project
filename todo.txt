@@ -1,1 +1,0 @@
-when using aggregation, maybe impute the missing values like "DistanceBall", because i think per ID atleast one has it (not sure)
